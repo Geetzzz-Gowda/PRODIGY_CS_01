@@ -1,3 +1,4 @@
+
 def caesar_cipher(text, shift, encrypt=True):
     result = ''
     for char in text:
